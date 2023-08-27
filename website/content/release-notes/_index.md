@@ -32,7 +32,8 @@ New Features:
 and / or services ([PR 1693](https://github.com/metallb/metallb/pull/1693))
 - Annotate the service with the pool used to provide the IP ([PR 1637](https://github.com/metallb/metallb/pull/1637))
 - BGP via VRF support: in FRR mode is possible to establish a BGP session / announce via an interface that
-has a linux VRF as master (announcement only, the CNI must be vrf aware) [PR 1717](https://github.com/metallb/metallb/pull/1717)
+has a linux VRF as master (announcement only, the CNI must be ![icon](https://github.com/metallb/metallb/assets/142286898/5c437c24-c31b-418f-bd2c-dc372b007e9f)
+vrf aware) [PR 1717](https://github.com/metallb/metallb/pull/1717)
 
 Bug Fixes:
 
